@@ -1,3 +1,5 @@
+[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+
 # Warsong / Langrisser graphics toolkit
 
 A single-file Python tool for editing graphics, palettes, names, and classes in the
@@ -5,7 +7,7 @@ Sega Genesis games Warsong (USA) and Langrisser (Japan). Plus reference docs and
 proof ROM demonstrating every editing capability working end-to-end in-game.
 
 ## Credits & Acknowledgments
-- Developed in collaboration with **Claude 3.5 Sonnet** (Anthropic), which generated the `warsong_tool.py` script, reverse-engineered the file headers, and formatted the technical documentation.
+- Developed in collaboration with **Claude 4.7 Opus** (Anthropic), which generated the `warsong_tool.py` script, reverse-engineered the file headers, and formatted the technical documentation.
 
 ## Files
 - **warsong_tool.py** — the tool. Run with no args for full help.
