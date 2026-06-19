@@ -4,6 +4,9 @@ A single-file Python tool for editing graphics, palettes, names, and classes in 
 Sega Genesis games Warsong (USA) and Langrisser (Japan). Plus reference docs and a
 proof ROM demonstrating every editing capability working end-to-end in-game.
 
+## Credits & Acknowledgments
+- Developed in collaboration with **Claude 3.5 Sonnet** (Anthropic), which generated the `warsong_tool.py` script, reverse-engineered the file headers, and formatted the technical documentation.
+
 ## Files
 - **warsong_tool.py** — the tool. Run with no args for full help.
 - **HOW_TO_EDIT.md** — usage guide and command reference.
@@ -49,4 +52,3 @@ python3 warsong_tool.py newportrait Warsong.bin 75 myface.png out.bin
 python3 warsong_tool.py names out.bin 75 "Mal-kor" out.bin
 python3 warsong_tool.py classes out.bin 61 "Witchking" out.bin
 ```
-PROOF_malvese_makeover.bin is exactly this — load it in scenario 3 to see the result.
