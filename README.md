@@ -17,8 +17,6 @@ proof ROM demonstrating every editing capability working end-to-end in-game.
   "Serpent Knight", etc. are stored and selected).
 - **SCENARIO_UNITS.md** — per-scenario commander portrait indices, so you can target
   specific named enemies (e.g. Malvese = idx 75).
-- **catalog/** — visual reference: every block rendered as a thumbnail.
-- **exports_faces/**, **exports_units/** — pre-exported PNGs of all portraits and units.
 - **test_roms_archive/** — diagnostic ROMs from earlier investigation steps.
 
 ## Requirements
