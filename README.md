@@ -12,9 +12,6 @@ proof ROM demonstrating every editing capability working end-to-end in-game.
   "Serpent Knight", etc. are stored and selected).
 - **SCENARIO_UNITS.md** — per-scenario commander portrait indices, so you can target
   specific named enemies (e.g. Malvese = idx 75).
-- **PROOF_malvese_makeover.bin** — a fully-mod-tested ROM: gives Malvese a new
-  portrait, custom palette, renames her "Mal-kor", and renames her class "Witchking".
-  Confirmed working in-game (scenario 3). Demonstrates every editing capability at once.
 - **catalog/** — visual reference: every block rendered as a thumbnail.
 - **exports_faces/**, **exports_units/** — pre-exported PNGs of all portraits and units.
 - **test_roms_archive/** — diagnostic ROMs from earlier investigation steps.
